@@ -92,15 +92,7 @@ npm install
 
 # Start dev server (http://localhost:4200)
 ng serve
-```
 
-### Default Login
-| Role  | Email | Password |
-|-------|-------|----------|
-| Admin | admin@invoicepro.com | Admin@123 |
-| Staff | staff@invoicepro.com | Staff@123 |
-
----
 
 ## 🛠️ Tech Stack
 
@@ -127,11 +119,7 @@ ng serve
 - **Client Profile** — Contact info, all invoices, payment history, outstanding balance
 - **Payment Modal** — Record full/partial payment with date and payment method
 
----
 
-## 📄 License
-
-MIT License — free to use and modify.
 
 ---
 
