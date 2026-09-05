@@ -1,0 +1,18 @@
+# Angular
+invoice-billing-frontend/node_modules/
+invoice-billing-frontend/dist/
+invoice-billing-frontend/.angular/
+
+# .NET
+**/bin/
+**/obj/
+
+# Visual Studio
+.vs/
+
+# User-specific files
+*.user
+*.suo
+
+# Environment / secrets
+appsettings.Development.json
